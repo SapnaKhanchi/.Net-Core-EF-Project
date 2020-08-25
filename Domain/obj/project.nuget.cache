@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RVF4+W8ghVdAyHh7/DYwyj/a12P7phNtmAdFvxEFWrQ4RcfpoJG/rkekIQAmp6LyVmt/aAW9Q0uyVAarI97ucA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KHANCHI\\source\\repos\\EF_Project\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KHANCHI\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\KHANCHI\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
